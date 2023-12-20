@@ -1,0 +1,4 @@
+DFG379 | Le Trung Kien | Ga Tuy Hoa | 56,80
+DJF372 | Vo Thi Ngoc Vien | Ga Tuy Hoa | 23,80
+DGK782 | Nguyen Van A | Ga Ha Noi | 38,30
+DHD231 | Tran Van B | Ga Vung Tau | 12,50
