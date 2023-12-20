@@ -54,6 +54,12 @@ public class Dia_CD {
 
     @Override
     public String toString() {
-        return STR."Dia_CD{id=\{id}, name='\{name}\{'\''}, nameCaSy='\{nameCaSy}\{'\''}, numberSong=\{numberSong}, money=\{money}\{'}'}";
+        return "Dia_CD{" +
+                "id=" + id +
+                ", name='" + name + '\'' +
+                ", nameCaSy='" + nameCaSy + '\'' +
+                ", numberSong=" + numberSong +
+                ", money=" + money +
+                '}';
     }
 }

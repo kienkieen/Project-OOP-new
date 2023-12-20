@@ -9,6 +9,7 @@
       <module fileurl="file://$PROJECT_DIR$/Task4/Task4.iml" filepath="$PROJECT_DIR$/Task4/Task4.iml" />
       <module fileurl="file://$PROJECT_DIR$/Task5_PhongHoc/Task5_PhongHoc.iml" filepath="$PROJECT_DIR$/Task5_PhongHoc/Task5_PhongHoc.iml" />
       <module fileurl="file://$PROJECT_DIR$/Task6_KhachHang/Task6_KhachHang.iml" filepath="$PROJECT_DIR$/Task6_KhachHang/Task6_KhachHang.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Task7_TreeSet/Task7_TreeSet.iml" filepath="$PROJECT_DIR$/Task7_TreeSet/Task7_TreeSet.iml" />
     </modules>
   </component>
 </project>
